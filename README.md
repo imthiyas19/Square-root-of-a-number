@@ -29,6 +29,8 @@ root(x)
 ```
 
 ## Output:
+
+
 ![output](output%20(1).png)
 
 
